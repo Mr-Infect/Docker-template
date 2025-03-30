@@ -4,7 +4,7 @@
 FROM ubuntu:latest
 
 # Maintainer
-LABEL maintainer="Your Name <your.email@example.com>"
+LABEL maintainer="Mr_Infect"
 
 # Environment Defaults
 ENV DEBIAN_FRONTEND=noninteractive
