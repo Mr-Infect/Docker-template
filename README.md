@@ -142,4 +142,3 @@ docker rmi ubuntu-dev-container
 
 ---
 > 🔒 Always be cautious with exposed services in production. This container is built primarily for local or secure lab environments.
-```
