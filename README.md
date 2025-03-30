@@ -6,7 +6,7 @@ A flexible and customizable Ubuntu-based Docker container with pre-installed ess
 
 ## 📦 Included Services & Tools
 
-This container includes the following tools and services:
+This container includes the following tools and services
 
 ### 🔧 Core Utilities
 - `vim`, `nano`, `curl`, `wget`, `git`, `htop`, `tree`, `unzip`, `tar`, `less`
